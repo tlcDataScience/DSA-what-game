@@ -1,0 +1,23 @@
+[
+    {
+      "url": "apple.png",
+      "question": "What is the fruit?",
+      "answer": "apple"
+    },
+    {
+      "url": "avocado.png",
+      "question": "What is the fruit?",
+      "answer": "avocado"
+    },
+    {
+      "url": "banana.png",
+      "question": "What is the fruit?",
+      "answer": "banana"
+    },
+    {
+      "url": "cherry.png",
+      "question": "What is the fruit?",
+      "answer": "cherry"
+    }
+    
+]
