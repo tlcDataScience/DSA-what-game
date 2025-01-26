@@ -1,5 +1,5 @@
 # DSA-what-game
-Template for "What ___" game (e.g WhatFruit, etc.) projects for DSA students. Copy below & replace the name of the game accordingly (e.g WhatVehicle) into the student's GitHub 👇🏻
+Template for "What ___" game (e.g WhatFruit, etc.) projects for DSA students. Copy below, replace the name of the game accordingly (e.g WhatVehicle) and add in screenshots of the student's game into the student's project README file 👇🏻
 
 # Welcome to WhatGame!
 
@@ -16,6 +16,8 @@ The idea behind **WhatGame** was to create an engaging and educational experienc
 ## Process Flowchart
 
 Here’s a step-by-step process of how **WhatGame** operates:
+
+![Process Flowchart](screenshots/flowchart.png)
 
 1. **Scoreboard**: Displays player scores at the start and throughout the game.
 2. **Ready Screen**: A countdown builds anticipation for the next round.
